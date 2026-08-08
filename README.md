@@ -54,7 +54,7 @@ The project is not initially aimed at public communities, companies, paid compet
 
 ## Figma Sketch
 
-Figma link: https://lab-from-40896674.figma.site
+Figma link: https://www.figma.com/make/N0d9HVxNgSnsa5966sK7Yv/PlayReal?t=gVXmmL1W3W2mxLKf-1
 
 The sketch must show at least one annotated screen. The current planned screen is the **PlayReal Home Web**, which includes:
 
