@@ -47,10 +47,10 @@ The project is not initially aimed at public communities, companies, paid compet
 
 ## Team Roles
 
-- **Juan Esteban - Project lead:** Defines the problem, target users, user stories, AI log, and coordinates the project.
-- **Andres - FrontEnd and design:** He is responsible for the creative and visual side of the project, focusing on user experience and frontend development.
-- **Jorge - Backend deployment and database lead:** He designs the server-side logic and manages the data storage for the PlayReal platform.
-- **Daniel - Feedback and testing lead:** He gathers user feedback and tests the PlayReal platform for usability and performance.
+- **Juan Esteban Gonzalez Villarreal - Project lead:** Defines the problem, target users, user stories, AI log, and coordinates the project.
+- **Edwin Andres Montano Castaneda - FrontEnd and design:** He is responsible for the creative and visual side of the project, focusing on user experience and frontend development.
+- **Jorge Daniel Fontalvo Restrepo - Backend deployment and database lead:** He designs the server-side logic and manages the data storage for the PlayReal platform.
+- **Daniel Orozco Castano - Feedback and testing lead:** He gathers user feedback and tests the PlayReal platform for usability and performance.
 
 ## Figma Sketch
 
