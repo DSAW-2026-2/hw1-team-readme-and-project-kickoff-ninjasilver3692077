@@ -1,3 +1,11 @@
+# Name
+
+Juan Esteban Gonzalez Villarreal
+
+# Pages link
+
+https://dsaw-2026-2.github.io/hw1-team-readme-and-project-kickoff-ninjasilver3692077/
+
 # PlayReal
 
 PlayReal is a web application for private student groups that organize daily or weekly challenges. Participants can see the active challenge, upload a photo as evidence, vote for the best submissions, earn points, keep streaks, and view a group ranking.
